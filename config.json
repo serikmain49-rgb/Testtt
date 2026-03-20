@@ -1,0 +1,16 @@
+{
+        "client": {
+                "host": "SMP-FRUTLINE.aternos.me",
+                "port": "29506",
+                "username": "AFKBOTFRUTLINE",
+                "version": "1.21.10"
+        },
+        
+        "! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
+        "logLevel": ["error", "log", "debug"],
+        "action": {
+                "commands": ["forward", "back", "left", "right", "jump"],
+                "holdDuration": 5000,
+                "retryDelay": 15000
+        }
+}
